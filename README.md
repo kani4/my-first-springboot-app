@@ -47,5 +47,5 @@ How to run the application
       Body - {
        "price": 499
       })
-4. H2 database can be accessed at - http://localhost:8080/h2-console - username - sa (with no password at the moment)
-5. "Active" property can be made true or false in the database or during the patch and it will act as a feature toggle for the item.
+5. H2 database can be accessed at - http://localhost:8080/h2-console - username - sa (with no password at the moment)
+6. "Active" property can be made true or false in the database or during the patch and it will act as a feature toggle for the item.

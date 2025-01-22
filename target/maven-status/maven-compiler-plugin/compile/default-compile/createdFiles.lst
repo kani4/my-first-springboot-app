@@ -1,0 +1,5 @@
+com/springboot/Product.class
+com/springboot/ProductService.class
+com/springboot/ProductRepository.class
+com/springboot/MyFirstSpringbootAppApplication.class
+com/springboot/MyFirstController.class
